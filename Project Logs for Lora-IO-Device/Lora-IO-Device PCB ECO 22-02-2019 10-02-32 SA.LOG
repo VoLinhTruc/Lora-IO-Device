@@ -1,0 +1,28 @@
+Added Component: Designator=U2(PC817-1-SMD)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U3(PC817-1-SMD)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U4(PC817-1-SMD)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U5(PC817-1-SMD)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC1_1 Pin=U2-1
+Added Pin To Net: NetName=COM_IN Pin=U2-2
+Added Pin To Net: NetName=I0_MCU Pin=U2-3
+Added Pin To Net: NetName=5V Pin=U2-4
+Added Pin To Net: NetName=NetC2_1 Pin=U3-1
+Added Pin To Net: NetName=COM_IN Pin=U3-2
+Added Pin To Net: NetName=I1_MCU Pin=U3-3
+Added Pin To Net: NetName=5V Pin=U3-4
+Added Pin To Net: NetName=NetC3_1 Pin=U4-1
+Added Pin To Net: NetName=COM_IN Pin=U4-2
+Added Pin To Net: NetName=I2_MCU Pin=U4-3
+Added Pin To Net: NetName=5V Pin=U4-4
+Added Pin To Net: NetName=NetC4_1 Pin=U5-1
+Added Pin To Net: NetName=COM_IN Pin=U5-2
+Added Pin To Net: NetName=I3_MCU Pin=U5-3
+Added Pin To Net: NetName=5V Pin=U5-4
+Added Member To Class: ClassName=Lora-IO-Device Member=Component U2 PC817-1
+Added Member To Class: ClassName=Lora-IO-Device Member=Component U3 PC817-1
+Added Member To Class: ClassName=Lora-IO-Device Member=Component U4 PC817-1
+Added Member To Class: ClassName=Lora-IO-Device Member=Component U5 PC817-1

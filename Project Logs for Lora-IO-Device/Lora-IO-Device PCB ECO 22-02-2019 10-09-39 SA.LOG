@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=OUT0 Pin=P5-1
+Removed Pin From Net: NetName=OUT1 Pin=P5-2
+Removed Member From Class: ClassName=Lora-IO-Device Member=P5
+Added Pin To Net: NetName=OUT1 Pin=P6-2
+Added Pin To Net: NetName=OUT0 Pin=P6-3
