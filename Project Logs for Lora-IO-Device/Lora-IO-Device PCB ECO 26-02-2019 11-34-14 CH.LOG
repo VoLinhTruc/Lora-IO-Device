@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=RX_MCU_BOOT Pin=IC1-2
+Added Pin To Net: NetName=TX_MCU_BOOT Pin=IC1-3
